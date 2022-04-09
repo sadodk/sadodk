@@ -1,4 +1,4 @@
-<img width=”200" height=”200"> src='/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg' alt="banner"</img>
+<img src='/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg' alt="banner"></img>
 
 
 ### Hi there 👋
