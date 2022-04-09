@@ -37,6 +37,10 @@ I love the entire process of developing creative webapplications. I love most te
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/fortran-%23734F96.svg?&style=for-the-badge&logo=fortran&logoColor=white)
+![](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?&style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 </br>
 
@@ -51,8 +55,21 @@ I love the entire process of developing creative webapplications. I love most te
 
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/atlassian-%230052CC.svg?&style=for-the-badge&logo=atlassian&logoColor=white)
+![](https://img.shields.io/badge/confluence-%23172B4D.svg?&style=for-the-badge&logo=confluence&logoColor=white)
+![](https://img.shields.io/badge/powershell-%235391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/json-%23000000.svg?&style=for-the-badge&logo=json&logoColor=white)
+![](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/bitcoin-%23F7931A.svg?&style=for-the-badge&logo=bitcoin&logoColor=black)
+![](https://img.shields.io/badge/ethereum-%233C3C3D.svg?&style=for-the-badge&logo=ethereum&logoColor=white)
 
 
 
