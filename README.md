@@ -10,12 +10,13 @@
   <div class="column" style="background-color:#aaa;">
     <h2>Currently working on:</h2>
     <p>
-      🔭 A Django Web application
+      🔭 A Django Web application <br>
       🌱 A Dapp on Etheriums blockchain</p>
   </div>
   <div class="column" style="background-color:#bbb;">
     <h2>Ask me about:</h2>
     <p>💬 Anything Python related :).</p>
+    <p>💬 Bitcoin and Blockchain :).</p>
   </div>
   <div class="column" style="background-color:#bbb;">
     <h2>Technologies at my fingertips</h2>
