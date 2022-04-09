@@ -18,8 +18,8 @@
     <p>💬 Anything Python related :).</p>
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Ask me about:</h2>
-    <p>💬 Anything Python related :).</p>
+    <h2>Technologies on my fingertip</h2>
+    <p>💬 type technol here.</p>
   </div>
 </div>
 </body>
