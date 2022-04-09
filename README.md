@@ -1,7 +1,7 @@
 <img src='/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg' alt="banner"></img>
 
 
-<a href="url"><img src="/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg" align="left" height="48" width="408" ></a>
 
 ### Hi there 👋
 
