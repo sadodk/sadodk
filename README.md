@@ -4,31 +4,34 @@
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
+<h2> Hi there 👋</h2>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+    <h2>Currently working on:</h2>
+    <p>
+      🔭  Django Web application
+      🌱 Etherium, Dapps developement</p>
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h2>Ask me about:</h2>
+    <p>💬 Anything Python related :).</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Ask me about:</h2>
+    <p>💬 Anything Python related :).</p>
   </div>
 </div>
-
 </body>
 </html>
 
 
 <a href="url"><img src="/robot-hand-connection-technology-vector.jpg" align="right"  ></a>
 
-### Hi there 👋
 
 
-Currently working on:
-🔭 Django Web application
-🌱 Etherium, Dapps developement
-💬 Anything Python related :)
+
+
+
 📫 How to reach me: saaddk@gmail.com
 -->
