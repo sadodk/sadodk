@@ -3,30 +3,31 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://www.linkedin.com/in/saad-afzal-67349031/" target="_blank" rel="noreferrer">Saad</a> 👋
 </h3>
 
 <h2 align="center">
 I'm a Full-Stack Web Developer !
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing creative webapplications. I love most tech related issues and are a BitCoin believer ! 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/saad-afzal-67349031/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Saad Afzal | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/cphwanderer/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Saad Afzal | Instagram" width="21px"/></a>
+<a href="https://medium.com/@saad_afzal"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Saad Afzal | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
-- Restaurant Recommendation App (MERN)
+- Django Webapplikation called Wiki
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
+- 📱 React Native 
+- 📱 Django
 
 ## 💼 Technical Skills
 
