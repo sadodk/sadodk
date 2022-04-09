@@ -10,8 +10,8 @@
   <div class="column" style="background-color:#aaa;">
     <h2>Currently working on:</h2>
     <p>
-      🔭  Django Web application
-      🌱 Etherium, Dapps developement</p>
+      🔭 A Django Web application
+      🌱 A Dapp on Etheriums blockchain</p>
   </div>
   <div class="column" style="background-color:#bbb;">
     <h2>Ask me about:</h2>
