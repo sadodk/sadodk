@@ -1,5 +1,6 @@
 <img src='/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg' width=”200" height=”200" />
 
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg" width="200" height="400" />
 
 ### Hi there 👋
 
