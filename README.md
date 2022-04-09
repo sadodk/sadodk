@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/saad-afzal-67349031/" target=
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer !
+I'm a Software Developer !
 </h2> 
 
 I love the entire process of developing creative webapplications. I love most tech related issues and I'm a BitCoin Fanboy ! 
