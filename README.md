@@ -26,7 +26,7 @@
 </html>
 
 
-<a href="url"><img src="/robot-hand-connection-technology-vector.jpg" align="right"  ></a>
+<a href="url"><img src="/robot-hand-connection-technology-vector.jpg" align="center"  ></a>
 
 
 
