@@ -1,5 +1,10 @@
 <img width=”200" height=”200" src='/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg' alt="banner"></img>
 
+
+<p align=”center”>
+<img width=”200" height=”200" src=”/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg" alt=”my banner”>
+</p>
+
 ### Hi there 👋
 
 
