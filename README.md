@@ -1,5 +1,5 @@
 
-<a href="url"><img src="/robot-hand-connection-technology-vector.jpg" align="left" height="280" width="6008" ></a>
+<a href="url"><img src="/robot-hand-connection-technology-vector.jpg" align="left"  ></a>
 
 ### Hi there 👋
 
