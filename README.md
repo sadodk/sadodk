@@ -18,7 +18,7 @@
     <p>💬 Anything Python related :).</p>
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Technologies on my fingertip</h2>
+    <h2>Technologies at my fingertips</h2>
     <p>💬 type technol here.</p>
   </div>
 </div>
@@ -26,7 +26,7 @@
 </html>
 
 
-<a href="url"><img src="/robot-hand-connection-technology-vector.jpg" align="center"  ></a>
+<a href="url"><img src="/robot-hand-connection-technology-vector.jpg" align="right"  ></a>
 
 
 
