@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="/robot-hand-connection-technology-vector.jpg" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="https://www.linkedin.com/in/saad-afzal-67349031/" target="_blank" rel="noreferrer">Saad</a> 👋
 </h3>
@@ -9,6 +5,11 @@ Hi there, I'm <a href="https://www.linkedin.com/in/saad-afzal-67349031/" target=
 <h2 align="center">
 I'm a Software Developer !
 </h2> 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saad-afzal-67349031/" target="_blank" rel="noreferrer"><img src="/robot-hand-connection-technology-vector.jpg" alt="my banner"></a>
+</p>
+
 
 I love the entire process of developing creative webapplications. I love most tech related issues and I'm a BitCoin Fanboy ! 
 
