@@ -59,4 +59,3 @@ I love the entire process of developing creative webapplications. I love most te
 
 [![Saad's github stats](https://github-readme-stats.vercel.app/api?username=sadodk)](https://github.com/sadodk)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=sadodk.sadodk)]
