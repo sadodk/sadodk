@@ -66,6 +66,6 @@ I love the entire process of developing creative webapplications. I love most te
 
 ## 📈 GitHub Stats 
 
-[![Saad's github stats](https://github-readme-stats.vercel.app/api?username=saodk)](https://github.com/sadodk)
+[![Saad's github stats](https://github-readme-stats.vercel.app/api?username=sadodk)](https://github.com/sadodk)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=sadodk.sadodk)]
