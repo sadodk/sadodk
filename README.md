@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Django Web application
-- 🌱 Etherium, Dapps developement
-- 💬 Ask me about ...
-- 📫 How to reach me: saaddk@gmail.com
+🔭 Django Web application
+🌱 Etherium, Dapps developement
+💬 Anything Python related :)
+📫 How to reach me: saaddk@gmail.com
 -->
