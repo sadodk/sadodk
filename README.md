@@ -1,6 +1,6 @@
 <img src='/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg' width=”200" height=”200" />
 
-<img src='/vecteezy_technology-background-and-line-diagram-blue_6699636.jp' width="600">
+<img src='/vecteezy_technology-background-and-line-diagram-blue_6699636.jp'>
 
 ### Hi there 👋
 
