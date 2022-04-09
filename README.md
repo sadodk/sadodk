@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='images/Github_banner.png' alt="banner"></img>
+<img src='sadodk/vecteezy_technology-background-and-line-diagram-blue_6699636.jpg' alt="banner"></img>
 
 
 🔭 Django Web application
