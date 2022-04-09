@@ -11,7 +11,7 @@ I'm a Software Developer !
 </p>
 
 
-I love the entire process of developing creative webapplications. I love most tech related issues and I'm a BitCoin Fanboy ! 
+I love the entire process of developing creative webapplications. Most tech related domains interests me and I'm a BitCoin enthusiastic ! 
 
 ### 🤝 Connect with me:
 
