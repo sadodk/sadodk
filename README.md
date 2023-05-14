@@ -27,8 +27,8 @@ I love the entire process of developing creative webapplications. Most tech rela
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native 
-- 📱 Django
+- 📱 React/ React Native 
+- 📱 Node.js
 
 ## 💼 Technology Stack
 
