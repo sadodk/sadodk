@@ -28,7 +28,7 @@ I love the entire process of developing creative webapplications. Most tech rela
 ## 🌱 I'm currently learning
 
 - 📱 React/ React Native 
-- 📱 Node.js
+- 📱 Node.js and AWS cloud developement
 
 ## 💼 Technology Stack
 
