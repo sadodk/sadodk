@@ -23,12 +23,12 @@ I love the entire process of developing creative webapplications. Most tech rela
 
 ## 🔭 I'm currently working on
 
-- Django Webapplikation called Wiki
+- Langchain and fastAPI project
 
 ## 🌱 I'm currently learning
 
-- 📱 React/ React Native 
-- 📱 Node.js and AWS cloud developement
+- 📱 FAST API best practices
+- 📱 Machine learning
 
 ## 💼 Technology Stack
 
