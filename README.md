@@ -27,7 +27,7 @@ I love the entire process of developing creative webapplications. Most tech rela
 
 ## 🌱 I'm currently learning
 
-- 📱 FAST API best practices
+- 📱 Serverless AWS
 - 📱 Machine learning
 
 ## 💼 Technology Stack
