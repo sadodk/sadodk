@@ -23,7 +23,7 @@ I love the entire process of developing creative webapplications. Most tech rela
 
 ## 🔭 I'm currently working on
 
-- Langchain and fastAPI project
+- React native app with serverless backend.
 
 ## 🌱 I'm currently learning
 
